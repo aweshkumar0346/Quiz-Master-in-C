@@ -1,0 +1,24 @@
+
+                             GUIDELINES FOR GAME
+                        ---------------------------
+
+
+  -Choose Between FOUR Different Categories.
+  -There Will Be THREE Rounds For Each Category.
+  
+  -In First Round:
+  -You'll Receive 10 Points For Correct Answer.
+  -You'll Lose 6 Points For Wrong Answer.
+  
+  -In Second Round:
+  -You'll Receive 20 Points For Correct Answer.
+  -You'll Lose 12 Points For Wrong Answer.
+
+  -In Third Round:
+  -You'll Receive 30 Points For Correct Answer.
+  -You'll Lose 18 Points For Wrong Answer.
+
+  -You'll Have One Lifeline For Each Rounds.
+  -The Lifeline Will Allow You To Skip Question Without Losing Points.
+
+  -Press Any Key For Main Menu.

@@ -1,0 +1,14 @@
+
+					
+
+
+					PLAY GAME
+			 	    -----------------
+
+
+  -Press 1 For IQ
+  -Press 2 For Maths
+  -Press 3 For English
+  -Press 4 For General Knowledge
+
+  -Press Any Other Key For Main Menu
